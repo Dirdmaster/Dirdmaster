@@ -1,16 +1,33 @@
-### Hi there 👋
+# Kevin Aguilar
 
-<!--
-**Dirdmaster/Dirdmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An overcaffined js developer, who can as well design what he's building,
+👨🏽‍💻 Currently working at [oratek](https://oratek.com/)
 
-Here are some ideas to get you started:
+## Fork my stack!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+
+- [NuxtJS](https://nuxt.com/)
+- [TailwindCSS](https://tailwindcss.com/)
+
+### Backend
+
+- [ExpressJS](https://expressjs.com/)
+- [AdonisJS](https://adonisjs.com/)
+- [Supabase](https://supabase.com/)
+
+### Shiny things on my watch list
+
+- [tRPC](https://trpc.io/)
+- [Penpot](https://penpot.app/)
+- [Tauri](https://tauri.app/)
+- [MedusaJS](https://medusajs.com/)
+- [Pocketbase](https://pocketbase.io/)
+
+## Facts about me
+
+- 🧗🏼 Current climbing goal -> [Emosson dam](https://www.pures-emossions.ch/en/climbing-wall-on-the-emosson-dam-fp48421)
+- ☕️ Favourite coffee beans -> [Delicia SHB from Guatemala](journal/gua-shb.md)
+- 🎵 One song to define me -> [I Wrote That Code ](https://song.link/s/7oEgXkv7eoN0ybAm8SxWRT)
+
+Feel free to contact me on [Linkedin](https://ch.linkedin.com/in/kevin-aguilar-5445211b4)
